@@ -1,0 +1,17 @@
+D:\projetos\.Net_6\loja.API\publish\loja.API.exe
+D:\projetos\.Net_6\loja.API\publish\appsettings.Development.json
+D:\projetos\.Net_6\loja.API\publish\appsettings.json
+D:\projetos\.Net_6\loja.API\publish\loja.API.dll
+D:\projetos\.Net_6\loja.API\publish\loja.API.runtimeconfig.json
+D:\projetos\.Net_6\loja.API\publish\loja.API.pdb
+D:\projetos\.Net_6\loja.API\publish\Microsoft.EntityFrameworkCore.dll
+D:\projetos\.Net_6\loja.API\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projetos\.Net_6\loja.API\publish\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projetos\.Net_6\loja.API\publish\Microsoft.Extensions.Caching.Memory.dll
+D:\projetos\.Net_6\loja.API\publish\Microsoft.OpenApi.dll
+D:\projetos\.Net_6\loja.API\publish\MySqlConnector.dll
+D:\projetos\.Net_6\loja.API\publish\Pomelo.EntityFrameworkCore.MySql.dll
+D:\projetos\.Net_6\loja.API\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\projetos\.Net_6\loja.API\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projetos\.Net_6\loja.API\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projetos\.Net_6\loja.API\publish\loja.API.deps.json
